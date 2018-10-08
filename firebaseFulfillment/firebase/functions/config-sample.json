@@ -1,0 +1,9 @@
+{
+	"google":"",
+	"postgres":{
+		"connectionName": "",
+		"dbUser" : "",
+		"dbPass" : "",
+		"dbName" : ""
+	}
+}
